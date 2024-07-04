@@ -27,12 +27,12 @@ const siteProps = {
   name: "Nidhi rawat",
   title: "Web Designer & UI/UX Designer",
   email: "nidhirawat519@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "github.com/nidhir08/xyz",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "https://www.linkedin.com/in/nidhi-rawat-333721260/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "https://x.com/home",
+ 
 };
 
 const primaryColor = "#4E567E";
